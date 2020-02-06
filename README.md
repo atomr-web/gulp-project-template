@@ -1,2 +1,2 @@
 # gulp-project-template
-Gulp template
+Gulp template for front-end
